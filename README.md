@@ -1,7 +1,5 @@
-### Hi there 👋
+### Olá! Eu sou o Carlos Alberto 👋
 
-[![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=C4MJR)](https://github.com/anuraghazra/github-readme-stats)
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=C4MJR&count_private=true)
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=C4MJR&show_icons=true&theme=dark)
 
 <div style="display: inline_block"><br>
