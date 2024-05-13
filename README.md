@@ -1,5 +1,8 @@
 ### Olá! Eu sou o Carlos Alberto 👋
 
+Eu sou o Carlos Alberto, um entusiasta e apaixonado por tecnologia, busco constantemente aprimorar meus conhecimentos e habilidades para oferecer soluções cada vez mais eficazes e impactantes para o mercado.
+
+
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=C4MJR&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C4MJR)](https://github.com/anuraghazra/github-readme-stats)
 
